@@ -1,0 +1,16 @@
+{
+  "name": "siff17",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Shu Ding",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "cheerio": "^0.22.0",
+    "request": "^2.81.0"
+  }
+}
